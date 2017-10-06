@@ -10,4 +10,5 @@ Please check here for Installation Tutorial if you need help: https://www.oapr.e
 # License
 
 This Extension is licensed under the same Terms as Zabbix itself: https://www.zabbix.com/licence
+
 If you need more Information’s about the GPL License, please check here: http://www.gnu.org/licenses/license-list.html
